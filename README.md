@@ -22,6 +22,10 @@ Stop losing track of code tasks. Just write `TODO: fix this` in your code—Olif
    ```bash
    git clone https://github.com/yourusername/olifant.git
    ```
+   
+
+- #### you can download directly from my portfolio [`https://emil88pl.github.io/`](https://emil88pl.github.io/)
+
 
 2. *(Optional)* Add `TODO_LIST.md` to your `.gitignore` if you prefer not to commit tracking reports:
    ```bash
