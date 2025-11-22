@@ -18,7 +18,7 @@ Stop losing track of code tasks. Just write `TODO: fix this` in your code—Olif
 
 ## Installation
 
-1. Clone this repository or download `todo_manager.py` into your project root:
+1. Clone this repository or download `Olifant.py` into your project root:
    ```bash
    git clone https://github.com/yourusername/olifant.git
    ```
